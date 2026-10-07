@@ -1,16 +1,22 @@
-## Hi there 👋
+# IcomuniCaT | Agencia de Marketing Digital en Barcelona
 
-<!--
-**surtdelcau-icomunicat/surtdelcau-icomunicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ayudamos a pymes y autónomos a ganar visibilidad, atraer clientes y vender más a través del marketing digital.
 
-Here are some ideas to get you started:
+## Servicios de marketing digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SEO y posicionamiento web
+- SEO para buscadores e inteligencia artificial
+- Google Ads y SEM
+- Diseño y desarrollo web
+- Gestión de redes sociales
+- Copywriting y marketing de contenidos
+- Automatización e inteligencia artificial
+- Consultoría de marketing digital
+
+## Sobre IcomuniCaT
+
+Somos una agencia de marketing digital con sede en Barcelona y trabajamos con empresas de toda España.
+
+Combinamos estrategia, tecnología, contenidos, SEO y publicidad para ayudar a las empresas a convertir su presencia digital en resultados de negocio.
+
+🌐 https://icomuni.cat/
